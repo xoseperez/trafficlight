@@ -1,0 +1,5 @@
+.workdir
+build
+*.s#?
+*.b#?
+code/espurna
